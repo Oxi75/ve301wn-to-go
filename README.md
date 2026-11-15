@@ -26,7 +26,7 @@ Die App läuft im Browser – ohne App-Store.
 |---|---|
 | Kippschalter hinten links | Ein/Aus – die Röhren brauchen etwa 20 Sekunden |
 | Kippschalter hinten rechts | Langwelle (oben) / Mittelwelle (unten) |
-| Entbrummer hinten | auf leisestes Brummen einstellen (wischen) |
+| Entbrummer hinten | auf leisestes Brummen einstellen (wischen) – siehe Hinweis unten |
 | Schrauben der Rückwand | antippen nimmt die Rückwand ab – und setzt sie wieder ein |
 | linker Knopf | Lautstärke |
 | mittlerer Knopf | Abstimmung (dreht die Skalenscheibe) |
@@ -55,6 +55,10 @@ Knöpfe mit dem Finger im Kreis drehen, am PC auch mit dem Mausrad.
   „Info & Datenschutz“ unten in der Senderliste.
 - Die App verbindet sich mit den **Servern der Radiosender** (zum Abspielen) und bei der
   Sendersuche mit **radio-browser.info** (freie Senderdatenbank).
+- **Brummen nur mit Kopfhörer oder richtigen Lautsprechern:** Das Netzbrummen liegt wie beim
+  Original bei 50 Hz (Oberwellen 100 und 150 Hz). Die eingebauten Lautsprecher von Handys, Tablets
+  und den meisten Laptops geben so tiefe Töne nicht wieder – dort ist kaum Brummen zu hören und
+  der Entbrummer scheint wirkungslos.
 - **„Originalton“** statt **„Röhrenklang“**: Manche Sender erlauben dem Browser keine
   Klangbearbeitung. Sie spielen dann ohne Röhrenklang, nur mit Rauschen und Abstimmeffekt.
   Die Sendersuche zeigt das schon vor dem Speichern an.

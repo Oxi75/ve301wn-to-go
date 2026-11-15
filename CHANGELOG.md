@@ -4,6 +4,14 @@ Alle nennenswerten Änderungen an VE301Wn to go. Format nach
 [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach
 [Semantic Versioning](https://semver.org/lang/de/).
 
+## [0.6.1] – 2026-11-15
+
+### Hinzugefügt
+- Hinweis unter „Info & Datenschutz“: Brummen und Entbrummer sind nur mit Kopfhörer oder
+  richtigen Lautsprechern zu hören, nicht über Handy- und Laptop-Lautsprecher
+- Neues App-Icon: gezeichneter Volksempfänger
+- Vorschaubild für geteilte Links (Facebook, Foren, Messenger)
+
 ## [0.6.0] – 2026-11-15
 
 Erste Veröffentlichung.
