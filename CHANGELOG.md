@@ -4,6 +4,12 @@ Alle nennenswerten Änderungen an VE301Wn to go. Format nach
 [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach
 [Semantic Versioning](https://semver.org/lang/de/).
 
+## [0.6.2] – 2026-11-15
+
+### Geändert
+- App-Icon und Vorschaubild als echte Clipart-Zeichnung: flache Farben, kräftige Konturen,
+  Radio füllt das Icon fast ganz aus
+
 ## [0.6.1] – 2026-11-15
 
 ### Hinzugefügt
