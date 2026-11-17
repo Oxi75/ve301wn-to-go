@@ -4,6 +4,12 @@ Alle nennenswerten Änderungen an VE301Wn to go. Format nach
 [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach
 [Semantic Versioning](https://semver.org/lang/de/).
 
+## [0.6.3] – 2026-11-17
+
+### Behoben
+- Android: Die Zurück-Taste schließt jetzt das Menü bzw. „Info & Datenschutz“, statt die App
+  zu verlassen (vorher blieb ein weißer Bildschirm)
+
 ## [0.6.2] – 2026-11-15
 
 ### Geändert
