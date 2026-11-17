@@ -4,6 +4,17 @@ Alle nennenswerten Änderungen an VE301Wn to go. Format nach
 [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach
 [Semantic Versioning](https://semver.org/lang/de/).
 
+## [0.6.4] – 2026-11-17
+
+### Geändert
+- Skalenscheibe nach dem Original neu gezeichnet: Sendernamen gebogen entlang der Skala,
+  Teilstriche und Zahlen wie auf der Originalscheibe, Senderbeschriftung wie 1933
+  („Deutschlandsender“ in Rot); Schrift sieht jetzt auf allen Geräten gleich aus
+
+### Behoben
+- Skalenfenster: Die Unterkante folgt jetzt dem Bogen der Mittelsäule – das Fenster ist nicht
+  mehr zu groß und schief, vom Gehäuse wird nichts mehr weggeschnitten
+
 ## [0.6.3] – 2026-11-17
 
 ### Behoben
