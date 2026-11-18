@@ -4,6 +4,22 @@ Alle nennenswerten Änderungen an VE301Wn to go. Format nach
 [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach
 [Semantic Versioning](https://semver.org/lang/de/).
 
+## [0.6.7] – 2026-11-18
+
+### Geändert
+- Vorderansicht nachbearbeitet: Gehäuse heller und natürlicher in der Farbe
+
+## [0.6.6] – 2026-11-18
+
+### Behoben
+- Skalenscheibe: Lange Teilstriche gekürzt und Zahlen weiter nach außen gerückt – die Zahlen
+  berühren die Sendernamen nicht mehr
+
+## [0.6.5] – 2026-11-18
+
+### Geändert
+- App-Icon trägt jetzt einen handgeschriebenen „to go“-Aufkleber
+
 ## [0.6.4] – 2026-11-17
 
 ### Geändert
